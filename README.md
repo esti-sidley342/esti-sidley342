@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Esti. I previously worked in the Networks Team at the London School of Economics assisting with the day to day running of the network. I lead on projects including hardware refreshes, regular upgrades, checking vulnerabilities, and installing new networking infrastructure into new and refurbished buildings.
+
+I'm currently re-training to become a Data Analyst through the Developers Institute, learning Python and SQL amongst other things.I'm very excited about this career change, although at the same time I do miss working with a large enterprise network.
+
+Aside from this, I also love cats and have a passion for astronomy. 
